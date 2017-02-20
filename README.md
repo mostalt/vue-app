@@ -1,2 +1,2 @@
 # vue-app
-investigation of vue ecosystem 
+implement vuex in vue-webpack
